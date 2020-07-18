@@ -1,0 +1,14 @@
+1592236040502	Delete element
+1592236043331	Delete element
+1592395154165	Encapsulate field 'accounts'
+1592396032361	Encapsulate field 'account'
+1592403732636	Encapsulate field 'hamburgerMenu'
+1592403826353	Encapsulate field 'echoAndAlexaOption'
+1592471694032	Encapsulate field 'newList'
+1592471821600	Encapsulate field 'addCommentLink'
+1592481082231	Delete element
+1592483624915	Delete element
+1592494594181	Encapsulate field 'signInLink'
+1592494618442	Encapsulate field 'createAccountBtn'
+1592494663550	Encapsulate field 'continueBtn'
+1592498632420	Rename package 'ExtentReportListener'
